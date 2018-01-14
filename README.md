@@ -6,4 +6,5 @@ Just run it and it will ask you how many characters you want your password to be
 E.g. 
 
 'Specify how many characters you want your password to be:'
+
 10
